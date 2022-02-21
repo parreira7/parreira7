@@ -1,4 +1,4 @@
-#Sup? I'm from Brazil and we don't give a F about bolsonazi, lula 2022 for real.
+#How ya doin'?
 
 <div align="center">
   <a href="https://github.com/parreira7">
