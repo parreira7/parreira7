@@ -1,4 +1,4 @@
-how you doing?
+>Sup? I'm a 19 years old computer science student from Brazil, I'm trying to improve my Python knowledge and stuff. Feel free to contact me!>
 
 <div align="center">
   <a href="https://github.com/parreira7">
