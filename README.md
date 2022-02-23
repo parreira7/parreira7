@@ -1,4 +1,4 @@
->Sup? I'm a computer science student from Brazil, I'm trying to improve my Python knowledge. Feel free to contact me!
+>trying to improve knowledge on python
 
 <div align="center">
   <a href="https://github.com/parreira7">
